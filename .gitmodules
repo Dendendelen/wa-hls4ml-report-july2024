@@ -1,0 +1,3 @@
+[submodule "wa-hls4ml"]
+	path = wa-hls4ml
+	url = git@github.com:Dendendelen/wa-hls4ml.git
